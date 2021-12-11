@@ -1,0 +1,4 @@
+c:\users\james\documents\visual studio 2010\Projects\UUID4_gen\UUID4_gen\bin\x64\Release\UUID4_gen.exe
+c:\users\james\documents\visual studio 2010\Projects\UUID4_gen\UUID4_gen\bin\x64\Release\UUID4_gen.pdb
+c:\users\james\documents\visual studio 2010\Projects\UUID4_gen\UUID4_gen\obj\x64\Release\UUID4_gen.exe
+c:\users\james\documents\visual studio 2010\Projects\UUID4_gen\UUID4_gen\obj\x64\Release\UUID4_gen.pdb
